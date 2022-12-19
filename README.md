@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I am a <b>Unity Game Developer<\b> 🎲</h1>
+<h1 align="center">Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I am a <b>Unity Game Developer</b> 🎲</h1>
 
 Here are some of my games: 
 > - [🎃 Pumpkin vs Ghost (2022)](https://valtergamespro.itch.io/pumpkin-vs-ghost)
