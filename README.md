@@ -1,6 +1,4 @@
-### Hello 🐰
-
-## I am a **Unity Game Developer** 🎲
+## Hello 🐰 I am a **Unity Game Developer** 🎲
 
 Here are some of my games: 
 > - [🎃 Pumpkin vs Ghost (2022)](https://valtergamespro.itch.io/pumpkin-vs-ghost)
