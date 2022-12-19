@@ -10,7 +10,9 @@
 - [🎃 Pumpkin vs Ghost (2022)](https://valtergamespro.itch.io/pumpkin-vs-ghost)
 - [🩸 Dead Fight (2021)](https://valtergames.itch.io/dead-fight)
 - [👑 Protect the Princess Beta (2021)](https://play.google.com/store/apps/details?id=com.ValterGames.ProtectthePrincess&hl=ru&gl=US)
+- ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 - [💀 Look Out, Monsters! (2019)](https://play.google.com/store/apps/details?id=com.ValterGames.LookOutMonsters&hl=ru&gl=US)
+- ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 #### And some of my other projects:
 - [🎂 Fairy Cakes Site (2022)](https://fairycakeskira.github.io)
