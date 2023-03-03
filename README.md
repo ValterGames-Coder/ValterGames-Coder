@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I am a <b>Unity Game Developer</b> 🎲</h1>
 
 #### Here are some of my games: 
-- [🔧 Unity Music Manager (2023)](https://github.com/ValterGames-Coder/Unity-Music-Manager)
+- [🎶 Unity Music Manager (2023)](https://github.com/ValterGames-Coder/Unity-Music-Manager)
 - [🎃 Pumpkin vs Ghost (2022)](https://valtergamespro.itch.io/pumpkin-vs-ghost)
 - [🩸 Dead Fight (2021)](https://valtergames.itch.io/dead-fight)
 - [👑 Protect the Princess Beta (2021)](https://play.google.com/store/apps/details?id=com.ValterGames.ProtectthePrincess&hl=ru&gl=US)
