@@ -7,6 +7,7 @@
 - [💀 Look Out, Monsters! (2019)](https://play.google.com/store/apps/details?id=com.ValterGames.LookOutMonsters&hl=ru&gl=US)
 
 #### And some of my other projects:
+- [🤖 My Private Dictionary Bot (2023)](https://t.me/MyPrivateDictionaryBot)
 - [🤖 Masturbate Bot (2023)](https://t.me/MegaMasturbateBot)
 - [🎂 Fairy Cakes Site (2022)](https://fairycakeskira.github.io)
 - [🤖 School Mosreg Bot (2022)](https://t.me/school_msoreg_bot)
