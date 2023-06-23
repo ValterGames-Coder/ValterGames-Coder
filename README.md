@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I am a <b>Unity Game Developer</b> 🎲</h1>
 
-## Here are some of my games:
+## Here are some of my projects:
 ### 2023:
 [😺 Catch up! (2-nd Programmer)](https://akan123.itch.io/catch-up)
 
