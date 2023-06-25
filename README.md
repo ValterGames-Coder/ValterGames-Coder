@@ -31,7 +31,7 @@
 [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot)
 
 ### 2019:
-[💀 Look Out, Monsters!](https://play.google.com/store/apps/details?id=com.ValterGames.LookOutMonsters&hl=ru&gl=US)
+[💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters)
 
 
 [**And links to my other accounts 🌈**](https://linktr.ee/ValterGames)
