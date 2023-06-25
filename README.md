@@ -13,7 +13,7 @@
 ### 2022:
 [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager)
 
-[🎃 Pumpkin vs Ghost](https://valtergamespro.itch.io/pumpkin-vs-ghost)
+[🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost)
 
 [🎂 Fairy Cakes Site](https://fairycakeskira.github.io)
 
@@ -24,7 +24,7 @@
 [🤖 Good Musical Taste Bot](https://t.me/GoodMusicalTaste_bot)
 
 ### 2021:
-[🩸 Dead Fight](https://valtergames.itch.io/dead-fight)
+[🩸 Dead Fight](https://valter_games.itch.io/dead-fight)
 
 [👑 Protect the Princess Beta](https://play.google.com/store/apps/details?id=com.ValterGames.ProtectthePrincess&hl=ru&gl=US)
 
