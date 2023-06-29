@@ -6,10 +6,6 @@
 
 [📦 Deb Unity Builder](https://github.com/ValterGames-Coder/Deb-Unity-Builder)
 
-[💦 XXXGAME](https://telegramgame-5b976.web.app/)
-
-[🤖 Masturbate Bot](https://t.me/MegaMasturbateBot)
-
 ### 2022:
 [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager)
 
