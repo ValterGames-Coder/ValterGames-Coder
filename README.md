@@ -9,6 +9,8 @@
 ### 2022:
 [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager)
 
+[💻 Kodius (Art Designer)](https://masterigr.ru/csmaker2/)
+
 [🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost)
 
 [🎂 Fairy Cakes Site](https://fairycakeskira.github.io)
@@ -22,7 +24,7 @@
 ### 2021:
 [🩸 Dead Fight](https://valter_games.itch.io/dead-fight)
 
-[👑 Protect the Princess Beta](https://play.google.com/store/apps/details?id=com.ValterGames.ProtectthePrincess&hl=ru&gl=US)
+[👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess)
 
 [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot)
 
