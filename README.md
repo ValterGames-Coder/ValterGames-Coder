@@ -2,6 +2,8 @@
 
 ## Here are some of my projects:
 ### 2023:
+[💬 Mirea Online Chat](https://github.com/ValterGames-Coder/mirea-chat)
+
 [🍎 Save Food](https://yandex.ru/games/app/258002?lang=ru)
 
 [🤖 Union Bot](https://t.me/MTestTest_bot)
