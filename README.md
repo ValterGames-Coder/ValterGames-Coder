@@ -2,6 +2,8 @@
 
 ## Here are some of my projects:
 ### 2023:
+[🍎 Save Food](https://yandex.ru/games/app/258002?lang=ru)
+
 [🤖 Union Bot](https://t.me/MTestTest_bot)
 
 [😺 Catch up! ](https://akan123.itch.io/catch-up) (2-nd Programmer)
