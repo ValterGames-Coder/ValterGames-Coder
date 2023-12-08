@@ -3,26 +3,26 @@
 ## Here are some of my projects:
 ### 2023:
 
-[🌆 CyberTower](https://valter-games.itch.io/cybertower)
+[🌆 CyberTower](https://valter-games.itch.io/cybertower) - 1 ноября 
 
-[💬 Mirea Online Chat](https://github.com/ValterGames-Coder/mirea-chat)
+[💬 Mirea Online Chat](https://github.com/ValterGames-Coder/mirea-chat) - 18 октября
 
-[🍎 Save Food](https://yandex.ru/games/app/258002?lang=ru)
+[🍎 Save Food](https://yandex.ru/games/app/258002?lang=ru) - 1 октября
 
-[🤖 Union Bot](https://t.me/MTestTest_bot)
+[🤖 Union Bot](https://t.me/MTestTest_bot) - 18 августа
 
-[😺 Catch up! ](https://akan123.itch.io/catch-up) (2-nd Programmer)
+[😺 Catch up! ](https://akan123.itch.io/catch-up) (2-nd Programmer) - 23 июня
 
-[📦 Deb Unity Builder](https://github.com/ValterGames-Coder/Deb-Unity-Builder)
+[📦 Deb Unity Builder](https://github.com/ValterGames-Coder/Deb-Unity-Builder) 
 
 [💻 Kodius ](https://masterigr.ru/csmaker2/) (Art Designer)
 
 ### 2022:
+[🎂 Fairy Cakes Site](https://fairycakeskira.github.io) - 10 декабря
+
 [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager)
 
-[🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost)
-
-[🎂 Fairy Cakes Site](https://fairycakeskira.github.io)
+[🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost) - 1 октября
 
 [🤖 School Mosreg Bot](https://t.me/school_msoreg_bot)
 
@@ -31,14 +31,14 @@
 [🤖 Good Musical Taste Bot](https://t.me/GoodMusicalTaste_bot)
 
 ### 2021:
-[🩸 Dead Fight](https://valter_games.itch.io/dead-fight)
+[🩸 Dead Fight](https://valter_games.itch.io/dead-fight) - 5 ноября
 
-[👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess)
+[👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) - 29 сентября
 
 [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot)
 
 ### 2019:
-[💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters)
+[💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters) - 5 августа
 
 
 [**And links to my other accounts 🌈**](https://linktr.ee/ValterGames)
