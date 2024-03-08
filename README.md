@@ -1,6 +1,11 @@
 <h1 align="center">Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I am a <b>Unity Game Developer</b> 🎲</h1>
 
 ## Here are some of my projects:
+### 2024:
+[⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) - 8 марта
+
+[🧬 Chemistry Calculator](https://valter-games.itch.io/cybertower-remade) - 25 февраля
+
 ### 2023:
 [📅 ValterРаспи](https://college-mirea.ru) - 15 ноября 
 
