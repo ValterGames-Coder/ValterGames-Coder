@@ -4,7 +4,7 @@
 ### 2024:
 [⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) - 8 марта
 
-[🧬 Chemistry Calculator](https://valter-games.itch.io/cybertower-remade) - 25 февраля
+[🧬 Chemistry Calculator](https://github.com/ValterGames-Coder/ChemistryProject) - 25 февраля
 
 ### 2023:
 [📅 ValterРаспи](https://college-mirea.ru) - 15 ноября 
