@@ -11,7 +11,7 @@
 ### 2023:
 #### [📅 ValterРаспи](https://college-mirea.ru) - 15 ноября 
 
-#### [🌆 CyberTower](https://valter-games.itch.io/cybertower) - 1 ноября 
+#### [🌆 CyberTower](https://valter-games.itch.io/cybertower) / [Github](https://github.com/ValterGames-Coder/CyberTower) - 1 ноября 
 
 #### [💬 Mirea Online Chat](https://github.com/ValterGames-Coder/mirea-chat) - 18 октября
 
