@@ -10,13 +10,6 @@
 #### [👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) / [Github](https://github.com/ValterGames-Coder/ProtectThePrincess-beta-) - 29 сентября, 2021
 #### [💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters) / [Github](https://github.com/ValterGames-Coder/Look-Out-Monsters) - 5 августа, 2019
 
-## Bots:
-#### [🤖 Union Bot](https://t.me/MTestTest_bot) - 18 августа, 2023
-#### [🤖 School Mosreg Bot](https://t.me/school_msoreg_bot) - ???, 2022
-#### [🤖 Push Ups Bot](https://t.me/PushUps_V_and_K_bot) - ???, 2022
-#### [🤖 Good Musical Taste Bot](https://t.me/GoodMusicalTaste_bot) - ???, 2022
-#### [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot) - ???, 2021
-
 ## Programs and Sites:
 #### [🧬 Chemistry Calculator](https://github.com/ValterGames-Coder/ChemistryProject) - 25 февраля, 2024
 #### [📅 ValterРаспи](https://college-mirea.ru) - 15 ноября, 2023
@@ -25,5 +18,12 @@
 #### [💻 Kodius](https://masterigr.ru/csmaker2/) (Art Designer)
 #### [🎂 Fairy Cakes Site](https://fairycakeskira.github.io) - 10 декабря, 2022
 #### [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager) - 12 июня, 2022
+
+## Bots:
+#### [🤖 Union Bot](https://t.me/MTestTest_bot) - 18 августа, 2023
+#### [🤖 School Mosreg Bot](https://t.me/school_msoreg_bot) - ???, 2022
+#### [🤖 Push Ups Bot](https://t.me/PushUps_V_and_K_bot) - ???, 2022
+#### [🤖 Good Musical Taste Bot](https://t.me/GoodMusicalTaste_bot) - ???, 2022
+#### [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot) - ???, 2021
 
 ## Links to my other accounts 🌈 -> https://linktr.ee/ValterGames
