@@ -28,7 +28,7 @@
 ### 2022:
 #### [🎂 Fairy Cakes Site](https://fairycakeskira.github.io) - 10 декабря
 
-#### [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager)
+#### [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager) - 12 июня
 
 #### [🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost) / [Github](https://github.com/ValterGames-Coder/Pumpkin-vs-Ghost)- 1 октября
 
