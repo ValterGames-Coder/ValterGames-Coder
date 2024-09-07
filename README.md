@@ -4,7 +4,7 @@
 
 ## Here are some of my projects:
 ### 2024:
-#### [⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) / [Github](https://github.com/ValterGames-Coder/CyberTower)- 17 марта
+#### [⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) / [Github](https://github.com/ValterGames-Coder/CyberTower) - 17 марта
 
 #### [🧬 Chemistry Calculator](https://github.com/ValterGames-Coder/ChemistryProject) - 25 февраля
 
