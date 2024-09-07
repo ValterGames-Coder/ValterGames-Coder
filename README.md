@@ -26,4 +26,4 @@
 #### [🤖 Good Musical Taste Bot](https://t.me/GoodMusicalTaste_bot) - ???, 2022
 #### [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot) - ???, 2021
 
-## Links to my other accounts 🌈 -> https://linktr.ee/ValterGames
+### Links to my other accounts 🌈 -> https://linktr.ee/ValterGames
