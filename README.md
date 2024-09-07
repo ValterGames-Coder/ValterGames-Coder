@@ -19,11 +19,4 @@
 #### [🎂 Fairy Cakes Site](https://fairycakeskira.github.io) - 10 декабря, 2022
 #### [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager) - 12 июня, 2022
 
-## Bots:
-#### [🤖 Union Bot](https://t.me/MTestTest_bot) - 18 августа, 2023
-#### [🤖 School Mosreg Bot](https://t.me/school_msoreg_bot) - ???, 2022
-#### [🤖 Push Ups Bot](https://t.me/PushUps_V_and_K_bot) - ???, 2022
-#### [🤖 Good Musical Taste Bot](https://t.me/GoodMusicalTaste_bot) - ???, 2022
-#### [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot) - ???, 2021
-
 ### Links to my other accounts 🌈 -> https://linktr.ee/ValterGames
