@@ -39,13 +39,13 @@
 #### [🤖 Good Musical Taste Bot](https://t.me/GoodMusicalTaste_bot)
 
 ### 2021:
-#### [🩸 Dead Fight](https://valter_games.itch.io/dead-fight) - 5 ноября
+#### [🩸 Dead Fight](https://valter_games.itch.io/dead-fight) / [Github](https://github.com/ValterGames-Coder/ZombiShoot) - 5 ноября
 
 #### [👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) - 29 сентября
 
 #### [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot)
 
 ### 2019:
-#### [💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters) - 5 августа
+#### [💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters) / [Github](https://github.com/ValterGames-Coder/Look-Out-Monsters) - 5 августа
 
 
