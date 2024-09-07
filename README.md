@@ -41,7 +41,7 @@
 ### 2021:
 #### [🩸 Dead Fight](https://valter_games.itch.io/dead-fight) / [Github](https://github.com/ValterGames-Coder/ZombiShoot) - 5 ноября
 
-#### [👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) - 29 сентября
+#### [👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) / [Github](https://github.com/ValterGames-Coder/ProtectThePrincess-beta-) - 29 сентября
 
 #### [🤖 BarBot](https://github.com/ValterGames-Coder/Barbot)
 
