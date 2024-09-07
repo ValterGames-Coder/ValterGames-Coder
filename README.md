@@ -30,7 +30,7 @@
 
 #### [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager)
 
-#### [🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost) - 1 октября
+#### [🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost) / [Github](https://github.com/ValterGames-Coder/Pumpkin-vs-Ghost)- 1 октября
 
 #### [🤖 School Mosreg Bot](https://t.me/school_msoreg_bot)
 
