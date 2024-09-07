@@ -4,14 +4,14 @@
 
 ## Here are some of my projects:
 ### 2024:
-#### [⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) - 17 марта
+#### [⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) / [Github](https://github.com/ValterGames-Coder/CyberTower)- 17 марта
 
 #### [🧬 Chemistry Calculator](https://github.com/ValterGames-Coder/ChemistryProject) - 25 февраля
 
 ### 2023:
 #### [📅 ValterРаспи](https://college-mirea.ru) - 15 ноября 
 
-#### [🌆 CyberTower](https://valter-games.itch.io/cybertower) / [Github](https://github.com/ValterGames-Coder/CyberTower) - 1 ноября 
+#### [🌆 CyberTower](https://valter-games.itch.io/cybertower) / [Github](https://github.com/ValterGames-Coder/hakaton-cyberpunk-td) - 1 ноября
 
 #### [💬 Mirea Online Chat](https://github.com/ValterGames-Coder/mirea-chat) - 18 октября
 
