@@ -7,7 +7,7 @@
 #### [😺 Catch up!](https://akan123.itch.io/catch-up) (2-nd Programmer) - 23 июня, 2023
 #### [🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost) / [Github](https://github.com/ValterGames-Coder/Pumpkin-vs-Ghost)- 1 октября, 2022
 #### [🩸 Dead Fight](https://valter_games.itch.io/dead-fight) / [Github](https://github.com/ValterGames-Coder/ZombiShoot) - 5 ноября, 2021
-#### [👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) / [Github](https://github.com/ValterGames-Coder/ProtectThePrincess-beta-) - 29 сентября, 2021
+#### [👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) - 29 сентября, 2021
 #### [💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters) / [Github](https://github.com/ValterGames-Coder/Look-Out-Monsters) - 5 августа, 2019
 
 ## Programs and Sites:
