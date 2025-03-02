@@ -12,6 +12,7 @@
 #### [💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters) / [Github](https://github.com/ValterGames-Coder/Look-Out-Monsters) - 5 августа, 2019
 
 ## Programs and Sites:
+#### [🏃‍♂️ Dynamic Player Controller](https://github.com/ValterGames-Coder/DynamicPlayerController) - 2 марта, 2025
 #### [📹 GUI Rutube Downloader](https://github.com/ValterGames-Coder/gui_rutube_downloader) - 8 сентября, 2024
 #### [📻 Simple Radio](https://github.com/ValterGames-Coder/SimpleRadio) - 8 сентября, 2024
 #### [🧬 Chemistry Calculator](https://github.com/ValterGames-Coder/ChemistryProject) - 25 февраля, 2024
