@@ -3,10 +3,31 @@
 <p align="center">
   🎮 Making games and tools since 2019 <br/>
   💻 Tech stack: <br/>
-  <b>Game Dev:</b> Unity, C#, C++, Blender <br/>
-  <b>Backend:</b> .NET, Python, Flask, SQL, PostgreSQL, SQLite <br/>
-  <b>Web:</b> HTML5, CSS3, SaaS <br/>
-  <b>DevOps:</b> Apache, Nginx <br/>
+  <!-- Game Dev -->
+  <img src="https://img.shields.io/badge/GameDev-Unity-000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
+  <br/><br/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white" />
+  <br/><br/>
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SaaS-DB7093?logo=sass&logoColor=white" />
+  <br/><br/>
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
 </p>
 
 ---
