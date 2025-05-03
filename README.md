@@ -18,7 +18,7 @@
 | [🚢 CLI-BattleShip](https://github.com/ValterGames-Coder/CLI-BattleShip) | Feb 22, 2025 | GitHub |
 | [⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) ([GitHub](https://github.com/ValterGames-Coder/CyberTower)) | Mar 17, 2024 | Itch.io |
 | [🌆 CyberTower](https://valter-games.itch.io/cybertower) ([GitHub](https://github.com/ValterGames-Coder/hakaton-cyberpunk-td)) | Nov 1, 2023 | Itch.io |
-| [🍎 Save Food](https://yandex.ru/games/app/258002?lang=ru) | Oct 1, 2023 | Yandex Games |
+| 🍎 Save Food | Oct 1, 2023 | — |
 | [😺 Catch up!](https://akan123.itch.io/catch-up) | Jun 23, 2023 | Itch.io *(2nd programmer)* |
 | [🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost) ([GitHub](https://github.com/ValterGames-Coder/Pumpkin-vs-Ghost)) | Oct 1, 2022 | Itch.io |
 | [🩸 Dead Fight](https://valter_games.itch.io/dead-fight) ([GitHub](https://github.com/ValterGames-Coder/ZombiShoot)) | Nov 5, 2021 | Itch.io |
