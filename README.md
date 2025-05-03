@@ -1,33 +1,29 @@
 <h1 align="center">👋 Hello! I'm a Unity Game Developer</h1>
 
 <p align="center">
-  🎮 Making games and tools since 2019 <br/>
-  💻 Tech stack: <br/>
-  <!-- Game Dev -->
-  <img src="https://img.shields.io/badge/GameDev-Unity-000?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
-  <br/><br/>
+  🎮 Making games and tools since 2019 <br/><br/>
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white" />
-  <br/><br/>
+  <img src="https://img.shields.io/badge/GameDev-Unity-000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SaaS-DB7093?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-Principles-4B0082?style=flat" />
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented-blue?style=flat" />
 
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SaaS-DB7093?logo=sass&logoColor=white" />
   <br/><br/>
-
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
 </p>
 
 ---
