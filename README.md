@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hello! I'm a Unity Game Developer</h1>
+<h3 align="center">🎮 Making games, tools and apps since 2019</h3>
 
 <p align="center">
-  <h3 align="center">🎮 Making games, tools and apps since 2019</h3> <br/><br/>
-
   <img src="https://img.shields.io/badge/GameDev-Unity-000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
