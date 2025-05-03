@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GameDev-Unity-000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -16,9 +16,13 @@
   <img src="https://img.shields.io/badge/SaaS-DB7093?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Krita-FF69B4?style=flat&logo=krita&logoColor=white">
+  <img src="https://img.shields.io/badge/Pixelorama-003B5C?style=flat&logo=pixelorama&logoColor=white">
+  <img src="https://img.shields.io/badge/GIMP-778899?style=flat&logo=gimp&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white">
   <img src="https://img.shields.io/badge/SOLID-Principles-4B0082?style=flat" />
   <img src="https://img.shields.io/badge/OOP-Object--Oriented-blue?style=flat" />
 </p>
@@ -41,7 +45,7 @@
 
 ---
 
-## 🧰 Tools & Side Projects
+## 🧰 Other Projects
 
 | Title | Date | Description |
 |---------|------|------------|
