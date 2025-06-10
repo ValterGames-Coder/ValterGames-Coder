@@ -49,6 +49,7 @@
 
 | Title | Date | Description |
 |---------|------|------------|
+| [🤖 Task Planner Bot](https://github.com/ValterGames-Coder/TaskPlannerBot) | Jun 10, 2025 | Async Task Planner Bot on C# (Telegram.Bot) |
 | [🏃‍♂️ Dynamic Player Controller](https://github.com/ValterGames-Coder/DynamicPlayerController) | Mar 2, 2025 | Flexible movement controller for Unity |
 | [📹 GUI Rutube Downloader](https://github.com/ValterGames-Coder/gui_rutube_downloader) | Sep 8, 2024 | Video downloader with GUI |
 | [📻 Simple Radio](https://github.com/ValterGames-Coder/SimpleRadio) | Sep 8, 2024 | Minimal online radio player |
