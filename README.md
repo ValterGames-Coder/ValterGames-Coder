@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SaaS-DB7093?style=flat&logo=sass&logoColor=white" />
@@ -19,10 +18,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Krita-FF69B4?style=flat&logo=krita&logoColor=white">
-  <img src="https://img.shields.io/badge/Pixelorama-003B5C?style=flat&logo=pixelorama&logoColor=white">
-  <img src="https://img.shields.io/badge/GIMP-778899?style=flat&logo=gimp&logoColor=white">
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white">
   <img src="https://img.shields.io/badge/SOLID-Principles-4B0082?style=flat" />
   <img src="https://img.shields.io/badge/OOP-Object--Oriented-blue?style=flat" />
 </p>
