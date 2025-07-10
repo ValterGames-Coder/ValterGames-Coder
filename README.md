@@ -29,13 +29,13 @@
 | Title | Date | Platform |
 |---------|------|-----------|
 | [🚢 CLI-BattleShip](https://github.com/ValterGames-Coder/CLI-BattleShip) | Feb 22, 2025 | GitHub |
-| [⚡️ CyberTower Remade](https://valter-games.itch.io/cybertower-remade) ([GitHub](https://github.com/ValterGames-Coder/CyberTower)) | Mar 17, 2024 | Itch.io |
-| [🌆 CyberTower](https://valter-games.itch.io/cybertower) ([GitHub](https://github.com/ValterGames-Coder/hakaton-cyberpunk-td)) | Nov 1, 2023 | Itch.io |
+| [⚡️ CyberTower Remade](https://valtergames.itch.io/cybertower-remade) ([GitHub](https://github.com/ValterGames-Coder/CyberTower)) | Mar 17, 2024 | Itch.io |
+| [🌆 CyberTower](https://valtergames.itch.io/cybertower) ([GitHub](https://github.com/ValterGames-Coder/hakaton-cyberpunk-td)) | Nov 1, 2023 | Itch.io |
 | [😺 Catch up!](https://akan123.itch.io/catch-up) | Jun 23, 2023 | Itch.io *(2nd programmer)* |
-| [🎃 Pumpkin vs Ghost](https://valter_games.itch.io/pumpkin-vs-ghost) ([GitHub](https://github.com/ValterGames-Coder/Pumpkin-vs-Ghost)) | Oct 1, 2022 | Itch.io |
-| [🩸 Dead Fight](https://valter_games.itch.io/dead-fight) ([GitHub](https://github.com/ValterGames-Coder/ZombiShoot)) | Nov 5, 2021 | Itch.io |
-| [👑 Protect the Princess Beta](https://valter-games.itch.io/protect-the-princess) | Sep 29, 2021 | Itch.io |
-| [💀 Look Out, Monsters!](https://valter-games.itch.io/look-out-monsters) ([GitHub](https://github.com/ValterGames-Coder/Look-Out-Monsters)) | Aug 5, 2019 | Itch.io |
+| [🎃 Pumpkin vs Ghost](https://valtergames.itch.io/pumpkin-vs-ghost) ([GitHub](https://github.com/ValterGames-Coder/Pumpkin-vs-Ghost)) | Oct 1, 2022 | Itch.io |
+| [🩸 Dead Fight](https://valtergames.itch.io/dead-fight) ([GitHub](https://github.com/ValterGames-Coder/ZombiShoot)) | Nov 5, 2021 | Itch.io |
+| [👑 Protect the Princess Beta](https://valtergames.itch.io/protect-the-princess) | Sep 29, 2021 | Itch.io |
+| [💀 Look Out, Monsters!](https://valtergames.itch.io/look-out-monsters) ([GitHub](https://github.com/ValterGames-Coder/Look-Out-Monsters)) | Aug 5, 2019 | Itch.io |
 
 ---
 
