@@ -44,6 +44,7 @@
 | Title | Date | Description |
 |---------|------|------------|
 | [📝 GameStoryGenerator](https://github.com/ValterGames-Coder/GameStoryGenerator) | Aug 4, 2025 | An application for generating interactive RPG stories |
+| [☀️ Spectrum Optimizer](https://github.com/jinxovich/mephi_sracaton) | Jul 21, 2025 | A system for selecting the optimal combination of light sources for reproducing the reference spectrum of solar radiation AM1.5G. |
 | [⚙️ TWAMP](https://github.com/ValterGames-Coder/TWAMP) | Jun 19, 2025 | Implementation of the TWAMP client + server on C++ |
 | [🤖 Task Planner Bot](https://github.com/ValterGames-Coder/TaskPlannerBot) | Jun 10, 2025 | Async Task Planner Bot on C# (Telegram.Bot) |
 | [🏃‍♂️ Dynamic Player Controller](https://github.com/ValterGames-Coder/DynamicPlayerController) | Mar 2, 2025 | Flexible movement controller for Unity |
