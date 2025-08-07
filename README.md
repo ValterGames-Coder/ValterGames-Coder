@@ -47,6 +47,7 @@
 | [☀️ Spectrum Optimizer](https://github.com/jinxovich/mephi_sracaton) | Jul 21, 2025 | A system for selecting the optimal combination of light sources |
 | [⚙️ TWAMP](https://github.com/ValterGames-Coder/TWAMP) | Jun 19, 2025 | Implementation of the TWAMP client + server on C++ |
 | [🤖 Task Planner Bot](https://github.com/ValterGames-Coder/TaskPlannerBot) | Jun 10, 2025 | Async Task Planner Bot on C# (Telegram.Bot) |
+| [🌌 Rotatable Skybox Shader](https://github.com/ValterGames-Coder/Unity-Rotatable-Skybox-Shader) | Mar 8. 2025 | A simple skybox shader with the ability to rotate it along 3 axes |
 | [🏃‍♂️ Dynamic Player Controller](https://github.com/ValterGames-Coder/DynamicPlayerController) | Mar 2, 2025 | Flexible movement controller for Unity |
 | [📹 GUI Rutube Downloader](https://github.com/ValterGames-Coder/gui_rutube_downloader) | Sep 8, 2024 | Video downloader with GUI |
 | [📻 Simple Radio](https://github.com/ValterGames-Coder/SimpleRadio) | Sep 8, 2024 | Minimal online radio player |
