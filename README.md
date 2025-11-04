@@ -43,6 +43,7 @@
 
 | Title | Date | Description |
 |---------|------|------------|
+| [📈 IDMS](https://github.com/ValterGames-Coder/IDMS) | Nov 4, 2025 | Integrated Diagram Modeling System |
 | [📝 Game Story Generator](https://github.com/ValterGames-Coder/GameStoryGenerator) | Aug 4, 2025 | An application for generating interactive RPG stories |
 | [☀️ Spectrum Optimizer](https://github.com/jinxovich/mephi_sracaton) | Jul 21, 2025 | A system for selecting the optimal combination of light sources |
 | [⚙️ TWAMP](https://github.com/ValterGames-Coder/TWAMP) | Jun 19, 2025 | Implementation of the TWAMP client + server on C++ |
