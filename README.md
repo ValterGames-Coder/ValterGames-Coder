@@ -24,7 +24,7 @@
 
 ---
 
-## 🕹️ My Games
+## 🕹️ Release Games
 
 | Title | Date | Platform |
 |---------|------|-----------|
@@ -34,8 +34,26 @@
 | [😺 Catch up!](https://akan123.itch.io/catch-up) | Jun 23, 2023 | Itch.io *(2nd programmer)* |
 | [🎃 Pumpkin vs Ghost](https://valtergames.itch.io/pumpkin-vs-ghost) ([GitHub](https://github.com/ValterGames-Coder/Pumpkin-vs-Ghost)) | Oct 1, 2022 | Itch.io |
 | [🩸 Dead Fight](https://valtergames.itch.io/dead-fight) ([GitHub](https://github.com/ValterGames-Coder/ZombiShoot)) | Nov 5, 2021 | Itch.io |
-| [👑 Protect the Princess Beta](https://valtergames.itch.io/protect-the-princess) | Sep 29, 2021 | Itch.io |
+| [👑 Protect the Princess Beta](https://valtergames.itch.io/protect-the-princess) ([GitHub](https://github.com/ValterGames-Coder/ProtectThePrincess-beta-)) | Sep 29, 2021 | Itch.io |
 | [💀 Look Out, Monsters!](https://valtergames.itch.io/look-out-monsters) ([GitHub](https://github.com/ValterGames-Coder/Look-Out-Monsters)) | Aug 5, 2019 | Itch.io |
+
+---
+
+## ⚙️ Imperfections Games
+
+| Title | Date |
+|---------|------|
+| [🏎 Drive Ahead Clone](https://github.com/ValterGames-Coder/Drive-Ahead) | 2025 |
+| [🚂 The Pink Train](https://github.com/ValterGames-Coder/The-Pink-Train) | 2025 |
+| [🎧 Music Man](https://github.com/ValterGames-Coder/MusicMan) | 2025 |
+| [👾 Arcade Nostalgia](https://github.com/ValterGames-Coder/ArcadeNostalgia) | 2025 |
+| [🦐 Fire Shrimp](https://valtergames-coder.github.io/FireShrimpGame/) | 2025 |
+| [🔫 Doom Shooter](https://github.com/ValterGames-Coder/DoomShooter) | 2024  |
+| [🌕 Until Midnight](https://github.com/ValterGames-Coder/Get-Out-of-Deadlock/) | 2024 |
+| [🗡 Liberandum](https://github.com/ValterGames-Coder/Liberandum/) | 2023 |
+| [🥟 Dumpling Kitties](https://github.com/ValterGames-Coder/Dumpling-Kitties) | 2023 |
+| [🐰 Rabbit's Maze](https://github.com/ValterGames-Coder/Animal-s-Maze) | 2023 |
+| [📦 Old Game Pack](https://github.com/ValterGames-Coder/MyProject) | 2020 |
 
 ---
 
