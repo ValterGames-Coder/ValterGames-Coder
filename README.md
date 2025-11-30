@@ -82,6 +82,9 @@
 
 ## 🌐 Links
 
-- 🔗 All links: [linktr.ee/ValterGames](https://linktr.ee/ValterGames)
-- 🕹️ Itch.io: [valtergames.itch.io](https://valtergames.itch.io)
-- 📢 Telegram: [@valterprojects](https://t.me/valterprojects)
+<p align="center">
+  <a href="https://linktr.ee/ValterGames">🌐 All links</a> •
+  <a href="https://valtergames.itch.io">🎮 Itch.io</a> •
+  <a href="https://t.me/valterprojects">💬 Telegram</a>
+</p>
+
