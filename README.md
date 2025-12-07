@@ -24,7 +24,8 @@
 
 ---
 
-## 🕹️ Release Games
+<details>
+  <summary><h2>🕹️ Release Games</h2></summary>
 
 | Title | Date | Platform |
 |---------|------|-----------|
@@ -36,10 +37,12 @@
 | [🩸 Dead Fight](https://valtergames.itch.io/dead-fight) ([GitHub](https://github.com/ValterGames-Coder/ZombiShoot)) | Nov 5, 2021 | Itch.io |
 | [👑 Protect the Princess Beta](https://valtergames.itch.io/protect-the-princess) ([GitHub](https://github.com/ValterGames-Coder/ProtectThePrincess-beta-)) | Sep 29, 2021 | Itch.io |
 | [💀 Look Out, Monsters!](https://valtergames.itch.io/look-out-monsters) ([GitHub](https://github.com/ValterGames-Coder/Look-Out-Monsters)) | Aug 5, 2019 | Itch.io |
+</details>
 
 ---
 
-## ⚙️ Imperfections Games
+<details>
+  <summary><h2>⚙️ Imperfections Games</h2></summary>
 
 | Title | Date |
 |---------|------|
@@ -54,10 +57,12 @@
 | [🥟 Dumpling Kitties](https://github.com/ValterGames-Coder/Dumpling-Kitties) | 2023 |
 | [🐰 Rabbit's Maze](https://github.com/ValterGames-Coder/Animal-s-Maze) | 2023 |
 | [📦 Old Game Pack](https://github.com/ValterGames-Coder/MyProject) | 2020 |
+</details>
 
 ---
 
-## 🧰 Other Projects
+<details>
+  <summary><h2>🧰 Other Projects</h2></summary>
 
 | Title | Date | Description |
 |---------|------|------------|
@@ -77,6 +82,7 @@
 | [💻 Kodius](https://masterigr.ru/csmaker2/) | — | UI designer (role: visual design) |
 | [🎂 Fairy Cakes Site](https://fairycakeskira.github.io) | Dec 10, 2022 | Website for a cake business |
 | [🎶 Unity Music Manager](https://github.com/ValterGames-Coder/Unity-Music-Manager) | Jun 12, 2022 | Music system for Unity games |
+</details>
 
 ---
 
@@ -87,4 +93,3 @@
   <a href="https://valtergames.itch.io">🎮 Itch.io</a> •
   <a href="https://t.me/valterprojects">💬 Telegram</a>
 </p>
-
